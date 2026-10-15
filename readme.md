@@ -1,4 +1,4 @@
--- modlist
+# Modlist
 
 
 - [AE2 EMI Crafting Integration](https://modrinth.com/mod/eVAp8Nkw) [1\.3\.1] by roridev
