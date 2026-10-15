@@ -1,0 +1,27 @@
+{
+  "Visuals": {
+    "_comment_showBlockPreviews": "Show previews of the blocks while placing them. Disable for better performance on low-end systems. Default: true",
+    "showBlockPreviews": true,
+    "_comment_onlyShowBlockPreviewsWhenBuilding": "Show block previews only when actively using a build mode. Reduces visual clutter when not building. Default: true",
+    "onlyShowBlockPreviewsWhenBuilding": true,
+    "_comment_showMiniBlockPreview": "Show a small transparent block inside each preview to highlight block rotation. Disable if you prefer the classic outline-only preview or want to reduce on-screen effects. Default: true",
+    "showMiniBlockPreview": true,
+    "_comment_maxBlockPreviews": "Don't show individual block previews when placing more than this many blocks. The outline will always be rendered regardless of this setting. Lower values improve performance for large builds. Range: 0 ~ 100000. Default: 4096",
+    "maxBlockPreviews": 4096,
+    "_comment_appearAnimationLength": "How long it takes for a block to appear when placed in ticks. Set to 0 to disable animation for better performance. 20 ticks = 1 second Range: 0 ~ 100. Default: 5",
+    "appearAnimationLength": 5,
+    "_comment_breakAnimationLength": "How long the break animation is in ticks. Set to 0 to disable animation for better performance. 20 ticks = 1 second Range: 0 ~ 100. Default: 10",
+    "breakAnimationLength": 10,
+    "_comment_previewScale": "The scale of the ghost block previews. 1.0 is full size, 0.5 is half size, etc. Smaller values reduce visual clutter. Range: 0.05 ~ 1.0. Default: 0.25",
+    "previewScale": 0.25
+  },
+  "Performance": {
+    "_comment": "Performance settings for Sophisticated Building. Adjust these if experiencing lag or frame drops.",
+    "_comment_previewRenderDistance": "Maximum distance in blocks to render block previews. Blocks beyond this distance won't show individual previews. Lower values improve performance for large builds. Range: 16 ~ 256. Default: 64",
+    "previewRenderDistance": 64,
+    "_comment_enableUpdateThrottling": "Enable update throttling to reduce CPU usage when idle. When enabled, calculations are skipped if the player hasn't moved. Disable if experiencing issues with preview updates. Default: true",
+    "enableUpdateThrottling": true,
+    "_comment_maxMiniBlockPreviews": "Maximum number of mini block previews to render. Mini previews show block rotation inside the ghost outline. Set to 0 to always show mini previews regardless of count (no limit). Range: 0 ~ 100000. Default: 4096",
+    "maxMiniBlockPreviews": 4096
+  }
+}

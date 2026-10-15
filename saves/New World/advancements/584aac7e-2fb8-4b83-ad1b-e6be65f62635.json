@@ -1,0 +1,106 @@
+{
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2026-10-15 00:03:21 -0300"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-10-15 00:03:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-10-15 00:03:21 -0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2026-10-15 00:03:21 -0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2026-10-15 00:03:21 -0300"
+    },
+    "done": true
+  },
+  "createnuclear:root": {
+    "criteria": {
+      "0": "2026-10-15 00:03:21 -0300"
+    },
+    "done": true
+  },
+  "zenith:give_book": {
+    "criteria": {
+      "tick": "2026-10-15 00:03:21 -0300"
+    },
+    "done": true
+  },
+  "global:notblue": {
+    "criteria": {
+      "requirement": "2026-10-15 00:03:21 -0300"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-10-15 00:03:21 -0300"
+    },
+    "done": true
+  },
+  "modern_industrialization:guidebook": {
+    "criteria": {
+      "checkInv": "2026-10-15 00:03:21 -0300"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "requirement": "2026-10-15 00:03:21 -0300"
+    },
+    "done": true
+  },
+  "fortunate_ancient_debris:about": {
+    "criteria": {
+      "requirement": "2026-10-15 00:03:21 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-10-15 00:03:21 -0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2026-10-15 00:03:21 -0300",
+      "inv_changed-diamond": "2026-10-15 00:03:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna": "2026-10-15 00:03:23 -0300"
+    },
+    "done": false
+  },
+  "dml-refabricated:first_join": {
+    "criteria": {
+      "tick": "2026-10-15 00:03:21 -0300"
+    },
+    "done": true
+  },
+  "moredelight:main/root": {
+    "criteria": {
+      "seeds": "2026-10-15 00:03:21 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

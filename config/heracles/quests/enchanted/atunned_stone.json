@@ -1,0 +1,106 @@
+{
+  "dependencies": [
+    "materials"
+  ],
+  "tasks": {
+    "quicklime": {
+      "type": "heracles:item",
+      "item": "enchanted:quicklime",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Quicklime",
+      "icon": {
+        "item": {
+          "id": "enchanted:quicklime",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    },
+    "attunedStoneCharged": {
+      "type": "heracles:item",
+      "item": "enchanted:attuned_stone_charged",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Charged Attuned Stone",
+      "icon": {
+        "item": {
+          "id": "enchanted:attuned_stone_charged",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    },
+    "woodAsh": {
+      "type": "heracles:item",
+      "item": "enchanted:wood_ash",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Wood Ash",
+      "icon": {
+        "item": {
+          "id": "enchanted:wood_ash",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "xp": {
+      "icon": {
+        "item": {
+          "id": "minecraft:experience_bottle",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "xptype": "LEVEL",
+      "amount": 5,
+      "title": "some xp",
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "attuned stone and charged attuned stone"
+    },
+    "description": [
+      "How to charge de Attuned stone:",
+      "",
+      "Place in a magic circle with",
+      "",
+      "/4/Redstone/4/",
+      "/e/Glowstone/e/",
+      "/7/Quicklime/7/",
+      "/2/Woodash/2/"
+    ],
+    "groups": {
+      "enchanted": {
+        "position": [
+          -274,
+          -40
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "enchanted:attuned_stone_charged",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Attuned Stone"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

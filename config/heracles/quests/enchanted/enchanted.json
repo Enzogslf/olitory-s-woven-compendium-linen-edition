@@ -1,0 +1,64 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "belladonna": {
+      "type": "heracles:item",
+      "item": "enchanted:belladonna_seeds",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Belladonna Seeds"
+    }
+  },
+  "rewards": {
+    "belladonna": {
+      "title": "good job",
+      "icon": {
+        "item": {
+          "id": "enchanted:belladonna_seeds",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "enchanted:belladonna_seeds",
+        "count": 5
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "www"
+    },
+    "description": [
+      "this the start mate"
+    ],
+    "groups": {
+      "enchanted": {
+        "position": [
+          -312,
+          -64
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "enchanted:belladonna_seeds",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "belladona seeds"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "dependencies": [
+    "materials"
+  ],
+  "tasks": {
+    "Mandrake": {
+      "type": "heracles:item",
+      "item": "enchanted:mandrake_root",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Mandrake",
+      "icon": {
+        "item": {
+          "id": "enchanted:mandrake_root",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    },
+    "Garlic": {
+      "type": "heracles:item",
+      "item": "enchanted:garlic",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Garlic",
+      "icon": {
+        "item": {
+          "id": "enchanted:garlic",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    },
+    "Wolfsbane Flowers": {
+      "type": "heracles:item",
+      "item": "enchanted:wolfsbane_flower",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Wolfsbane Flowers",
+      "icon": {
+        "item": {
+          "id": "enchanted:wolfsbane_flower",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    },
+    "Belladonna flowers": {
+      "type": "heracles:item",
+      "item": "enchanted:belladonna_flower",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Belladonna Flowers",
+      "icon": {
+        "item": {
+          "id": "enchanted:belladonna_flower",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    },
+    "Snowbells": {
+      "type": "heracles:item",
+      "item": "enchanted:snowbell_seeds",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Snowbells",
+      "icon": {
+        "item": {
+          "id": "enchanted:snowbell_seeds",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    },
+    "water artichoke": {
+      "type": "heracles:item",
+      "item": "enchanted:water_artichoke",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "water artichoke",
+      "icon": {
+        "item": {
+          "id": "enchanted:water_artichoke",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "morexp": {
+      "icon": {
+        "item": {
+          "id": "enchanted:wolfsbane_flower",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "xptype": "LEVEL",
+      "amount": 5,
+      "title": "xp",
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Commun Magic Plants"
+    },
+    "description": [
+      "Belladonna flowers",
+      "Garlic",
+      "Mandrakes",
+      "Snowbells",
+      "Water Artichoke",
+      "Wolfsbane flowers"
+    ],
+    "groups": {
+      "enchanted": {
+        "position": [
+          -292,
+          32
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "enchanted:belladonna_flower",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Herbs"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

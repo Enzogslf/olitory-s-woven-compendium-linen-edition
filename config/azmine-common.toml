@@ -1,0 +1,40 @@
+#If true, blocks that require a tool for drops are skipped unless the player holds the correct tool (not creative).
+requireTool = false
+#Show preview outline of blocks that will be mined.
+showPreview = true
+#Color for preview outline (ARGB format). Default is white (0xFFFFFFFF).
+previewColor = -1
+#Deprecated compatibility key. Native player breaks now own their particles.
+showClusterBreakParticles = false
+#Show the on-screen Azmine HUD while vein miner is active.
+showHud = true
+#Deprecated compatibility key. Native player breaks now own their sounds.
+enableSound = true
+#Allow shapeless/vein mining pattern.
+allowShapeless = true
+#Size of square patterns (3x3, 5x5, etc.). Must be an odd number.
+squareSize = 3
+#Maximum number of blocks that can be broken in a single operation. Higher values may cause lag.
+maxBlocksPerOperation = 64
+#Maximum length for tunnel patterns.
+tunnelLength = 32
+#Enable Azmine multi-block mining.
+enabled = true
+#Ticks to wait between each extra block (0 = break all extras in one tick). Higher spreads server work for busy servers.
+breakDelayTicks = 0
+#Allow strip/line mining pattern.
+allowStrip = true
+#Allow vertical column mining pattern.
+allowColumn = true
+#Allow tunnel patterns.
+allowTunnel = true
+#If true, extra blocks are skipped when the held tool cannot harvest them for drops (tier / harvest check; not creative).
+respectHarvestLevel = false
+#Scales aggregate tool damage by successfully mined blocks (1.0 = one durability attempt per block).
+durabilityMultiplier = 1.0
+#Maximum depth for vein mining (how many blocks deep to search for connected blocks).
+maxVeinDepth = 64
+#Allow square/area patterns.
+allowSquare = true
+#Width of preview outline lines.
+previewLineWidth = 2.0

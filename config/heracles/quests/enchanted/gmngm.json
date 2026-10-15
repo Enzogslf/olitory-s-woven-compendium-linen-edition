@@ -1,0 +1,82 @@
+{
+  "dependencies": [
+    "enchanted"
+  ],
+  "tasks": {
+    "the art of witchcraft": {
+      "type": "heracles:item",
+      "item": "patchouli:guide_book",
+      "nbt": {
+        "patchouli:book": "enchanted:getting_started"
+      },
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "The Art of Witchcraft",
+      "icon": {
+        "item": {
+          "id": "patchouli:guide_book",
+          "count": 1,
+          "nbt": {
+            "patchouli:book": "enchanted:getting_started"
+          }
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "skeletonhead": {
+      "title": "Your Eternal Reward",
+      "icon": {
+        "item": {
+          "id": "minecraft:skeleton_skull",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:skeleton_skull",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Quest book"
+    ],
+    "groups": {
+      "enchanted": {
+        "position": [
+          -263,
+          -64
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "patchouli:guide_book",
+        "count": 1,
+        "nbt": {
+          "patchouli:book": "enchanted:getting_started"
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Quest Book"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

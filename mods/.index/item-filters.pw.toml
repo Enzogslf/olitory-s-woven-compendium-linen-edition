@@ -1,0 +1,17 @@
+filename = 'item-filters-fabric-2001.1.0-build.53.jar'
+name = 'Item Filters'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '2001.1.0-build.53'
+
+[download]
+hash = '943119bec544dc2c2f30ddb055bb11ae8e233284eff6f6df055ffea3673573993e7e9b96280ba57e0fdb592c1bb1900ded61cc255f96237bee5ba30facaed1a6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1KLyhGRz/versions/LoyNhXfF/item-filters-fabric-2001.1.0-build.53.jar'
+
+[update.modrinth]
+mod-id = '1KLyhGRz'
+version = 'LoyNhXfF'

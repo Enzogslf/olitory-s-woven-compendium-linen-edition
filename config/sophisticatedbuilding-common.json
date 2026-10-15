@@ -1,0 +1,50 @@
+{
+  "Reach": {
+    "_comment_reachCreative": "How far away the player can place and break blocks. Range: 0 ~ 1000. Default: 200",
+    "reachCreative": 200,
+    "_comment_reachLevel0": "Maximum reach in survival without upgrades Consume Power Level upgrades to permanently increase this. Range: 0 ~ 1000. Default: 0",
+    "reachLevel0": 0,
+    "_comment_reachLevel1": "Range: 0 ~ 1000. Default: 8",
+    "reachLevel1": 8,
+    "_comment_reachLevel2": "Range: 0 ~ 1000. Default: 16",
+    "reachLevel2": 16,
+    "_comment_reachLevel3": "Range: 0 ~ 1000. Default: 32",
+    "reachLevel3": 32
+  },
+  "MaxBlocksPlacedAtOnce": {
+    "_comment_maxBlocksPlacedAtOnceCreative": "How many blocks can be placed in one click. Range: 0 ~ 100000. Default: 10000",
+    "maxBlocksPlacedAtOnceCreative": 10000,
+    "_comment_maxBlocksPlacedAtOnceLevel0": "In survival without upgrades Consume Power Level upgrades to permanently increase this. Set to 0 to disable Sophisticated Building until the player has increased their Building Power Level. Range: 0 ~ 100000. Default: 128",
+    "maxBlocksPlacedAtOnceLevel0": 128,
+    "_comment_maxBlocksPlacedAtOnceLevel1": "Range: 0 ~ 100000. Default: 256",
+    "maxBlocksPlacedAtOnceLevel1": 256,
+    "_comment_maxBlocksPlacedAtOnceLevel2": "Range: 0 ~ 100000. Default: 512",
+    "maxBlocksPlacedAtOnceLevel2": 512,
+    "_comment_maxBlocksPlacedAtOnceLevel3": "Range: 0 ~ 100000. Default: 2048",
+    "maxBlocksPlacedAtOnceLevel3": 2048
+  },
+  "MaxBlocksPerAxis": {
+    "_comment_maxBlocksPerAxisCreative": "How many blocks can be placed at once per axis when using build modes (e.g. walls). Also affects the array modifier. Range: 0 ~ 1000. Default: 1000",
+    "maxBlocksPerAxisCreative": 1000,
+    "_comment_maxBlocksPerAxisLevel0": "In survival without upgrades Consume Power Level upgrades to permanently increase this. Range: 0 ~ 1000. Default: 8",
+    "maxBlocksPerAxisLevel0": 8,
+    "_comment_maxBlocksPerAxisLevel1": "Range: 0 ~ 1000. Default: 16",
+    "maxBlocksPerAxisLevel1": 16,
+    "_comment_maxBlocksPerAxisLevel2": "Range: 0 ~ 1000. Default: 24",
+    "maxBlocksPerAxisLevel2": 24,
+    "_comment_maxBlocksPerAxisLevel3": "Range: 0 ~ 1000. Default: 32",
+    "maxBlocksPerAxisLevel3": 32
+  },
+  "MaxMirrorRadius": {
+    "_comment_maxMirrorRadiusCreative": "The maximum (radial) mirror radius. Range: 0 ~ 1000. Default: 200",
+    "maxMirrorRadiusCreative": 200,
+    "_comment_maxMirrorRadiusLevel0": "Maximum reach in survival without upgrades Consume Reach Upgrades to permanently increase this. Range: 0 ~ 1000. Default: 16",
+    "maxMirrorRadiusLevel0": 16,
+    "_comment_maxMirrorRadiusLevel1": "Range: 0 ~ 1000. Default: 32",
+    "maxMirrorRadiusLevel1": 32,
+    "_comment_maxMirrorRadiusLevel2": "Range: 0 ~ 1000. Default: 48",
+    "maxMirrorRadiusLevel2": 48,
+    "_comment_maxMirrorRadiusLevel3": "Range: 0 ~ 1000. Default: 64",
+    "maxMirrorRadiusLevel3": 64
+  }
+}

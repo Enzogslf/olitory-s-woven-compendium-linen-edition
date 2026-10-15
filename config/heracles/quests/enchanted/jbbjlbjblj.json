@@ -1,0 +1,107 @@
+{
+  "dependencies": [
+    "uuyluyu"
+  ],
+  "tasks": {
+    "purplediamond": {
+      "type": "heracles:item",
+      "item": "enchanted:attuned_stone",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Atunned Stone",
+      "icon": {
+        "item": {
+          "id": "enchanted:attuned_stone",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    },
+    "whiff of magic": {
+      "type": "heracles:item",
+      "item": "enchanted:whiff_of_magic",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Hmmm magic for drinking?",
+      "icon": {
+        "item": {
+          "id": "enchanted:whiff_of_magic",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "xp": {
+      "icon": {
+        "item": {
+          "id": "minecraft:experience_bottle",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "xptype": "POINTS",
+      "amount": 100,
+      "title": "xp",
+      "type": "heracles:xp"
+    },
+    "whiff of magic": {
+      "title": "here take some magic",
+      "icon": {
+        "item": {
+          "id": "enchanted:whiff_of_magic",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "enchanted:whiff_of_magic",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Altar upgrades.... Are upgrades for your altars",
+      "",
+      "there are 3 kinds of altar upgrades:",
+      " /5/Candle upgrades/5/",
+      " /d/Chalice upgrades/d/",
+      " /6/Skull upgrades/6/",
+      "",
+      "You will need some special crafting materials for some of these like the /9/attuned stone/9/"
+    ],
+    "groups": {
+      "enchanted": {
+        "position": [
+          -223,
+          -90
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:paper",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Altar Upgrades"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

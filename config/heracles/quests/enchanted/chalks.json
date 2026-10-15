@@ -1,0 +1,43 @@
+{
+  "dependencies": [
+    "materials"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [],
+    "groups": {
+      "enchanted": {
+        "position": [
+          -279,
+          7
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "bewitchment:chalk",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Chalks"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

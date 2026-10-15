@@ -1,0 +1,40 @@
+{
+  "dependencies": [
+    "gmngm"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [],
+    "groups": {
+      "enchanted": {
+        "position": [
+          -223,
+          -64
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "enchanted:altar",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Altar"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}
