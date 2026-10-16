@@ -1,6 +1,14 @@
 [
     {
         "authors": [
+            "unilock"
+        ],
+        "name": "AE2 + Mouse Tweaks Fix",
+        "url": "https://modrinth.com/mod/r3Ge6Tj5",
+        "version": "2.0.0+1.20.1+fabric"
+    },
+    {
+        "authors": [
             "roridev"
         ],
         "name": "AE2 EMI Crafting Integration",
@@ -15,7 +23,7 @@
         ],
         "name": "Accessories",
         "url": "https://modrinth.com/mod/jtmvUHXj",
-        "version": "1.0.0-beta.47+1.20.1"
+        "version": "1.0.0-beta.48+1.20.1"
     },
     {
         "authors": [
@@ -38,7 +46,7 @@
             "shedaniel"
         ],
         "name": "Architectury",
-        "url": "https://www.curseforge.com/projects/419699",
+        "url": "https://modrinth.com/mod/lhGA9TYQ",
         "version": "9.2.14"
     },
     {
@@ -65,6 +73,14 @@
         "name": "Azmine",
         "url": "https://modrinth.com/mod/DO03xtcE",
         "version": "2.2.1"
+    },
+    {
+        "authors": [
+            "BlayTheNinth"
+        ],
+        "name": "Balm",
+        "url": "https://modrinth.com/mod/MBAkmtvl",
+        "version": "7.3.44"
     },
     {
         "authors": [
@@ -106,15 +122,6 @@
         "name": "Botarium",
         "url": "https://modrinth.com/mod/2u6LRnMa",
         "version": "2.3.4"
-    },
-    {
-        "authors": [
-            "Alex Nijjar",
-            "ThatGravyBoat"
-        ],
-        "name": "Cadmus",
-        "url": "https://modrinth.com/mod/fEWKxVzh",
-        "version": "1.0.8"
     },
     {
         "authors": [
@@ -207,6 +214,14 @@
     },
     {
         "authors": [
+            "BlayTheNinth"
+        ],
+        "name": "Default Options",
+        "url": "https://modrinth.com/mod/WEg59z5b",
+        "version": "18.0.6"
+    },
+    {
+        "authors": [
             "Toni"
         ],
         "name": "Distraction Free Recipes (EMI)",
@@ -220,6 +235,14 @@
         "name": "EMI",
         "url": "https://modrinth.com/mod/fRiHVvU7",
         "version": "1.1.24+1.20.1+fabric"
+    },
+    {
+        "authors": [
+            "Rane Kun"
+        ],
+        "name": "EMI Chipped Integration",
+        "url": "https://modrinth.com/mod/2RAIsW5P",
+        "version": "1.0.0"
     },
     {
         "authors": [
@@ -252,7 +275,7 @@
             "Binaris"
         ],
         "name": "Electroblob's Wizardry Redux",
-        "url": "https://www.curseforge.com/projects/1405790",
+        "url": "https://modrinth.com/mod/s5qOekOc",
         "version": "0.8.9"
     },
     {
@@ -270,6 +293,16 @@
         "name": "EntityCulling",
         "url": "https://modrinth.com/mod/NNAgCjsB",
         "version": "1.11.3"
+    },
+    {
+        "authors": [
+            "NoaSakurajin",
+            "Pandarix",
+            "Dunk3ll1cht"
+        ],
+        "name": "Even Better Archeology",
+        "url": "https://modrinth.com/mod/LWRxA5tQ",
+        "version": "2.0.0-beta.6"
     },
     {
         "authors": [
@@ -377,28 +410,19 @@
     },
     {
         "authors": [
+            "JTK222"
+        ],
+        "name": "Global Packs",
+        "url": "https://modrinth.com/mod/NRLPy2mk",
+        "version": "19.3.7"
+    },
+    {
+        "authors": [
             "GlodBlock"
         ],
         "name": "Glodium",
         "url": "https://modrinth.com/mod/UhW5uCKw",
         "version": "1.20-1.1-fabric"
-    },
-    {
-        "authors": [
-            "ThatGravyBoat"
-        ],
-        "name": "Heracles",
-        "url": "https://modrinth.com/mod/lo90fZoB",
-        "version": "1.1.13"
-    },
-    {
-        "authors": [
-            "kyber-6",
-            "Pixel Dream Studios"
-        ],
-        "name": "Heracles Button",
-        "url": "https://modrinth.com/mod/HibJK04a",
-        "version": "1.0.0"
     },
     {
         "authors": [
@@ -450,6 +474,14 @@
         "name": "Jade",
         "url": "https://modrinth.com/mod/nvQzSEkH",
         "version": "11.13.3+fabric"
+    },
+    {
+        "authors": [
+            "fzzyhmstrs"
+        ],
+        "name": "Keybind Fix",
+        "url": "https://modrinth.com/mod/vuWNr14n",
+        "version": "1.0.0"
     },
     {
         "authors": [
@@ -523,6 +555,14 @@
     },
     {
         "authors": [
+            "Kastiel Cjelly"
+        ],
+        "name": "Modern Vampirism",
+        "url": "https://modrinth.com/mod/A4dwcKSs",
+        "version": "1.0.2-1.20.1"
+    },
+    {
+        "authors": [
             "embeddedt"
         ],
         "name": "ModernFix",
@@ -536,6 +576,39 @@
         "name": "More Delight",
         "url": "https://modrinth.com/mod/znHQQtuU",
         "version": "26.05.07-1.20-fabric"
+    },
+    {
+        "authors": [
+            "Ivan Molodetskikh (YaLTeR)"
+        ],
+        "name": "Mouse Tweaks",
+        "url": "https://modrinth.com/mod/aC3cM3Vq",
+        "version": "2.26"
+    },
+    {
+        "authors": [
+            "Aizistral"
+        ],
+        "name": "No Chat Reports",
+        "url": "https://modrinth.com/mod/qQyHxfxd",
+        "version": "1.20.1-v2.2.3"
+    },
+    {
+        "authors": [
+            "farrucho"
+        ],
+        "name": "Open Block Elevator Mod",
+        "url": "https://modrinth.com/mod/v8XOAQUM",
+        "version": "1.0.0-1.20_1.20.1"
+    },
+    {
+        "authors": [
+            "Xaero96",
+            "other contributors"
+        ],
+        "name": "Open Parties and Claims",
+        "url": "https://modrinth.com/mod/gF3BGWvG",
+        "version": "0.32.7"
     },
     {
         "authors": [
@@ -581,11 +654,27 @@
     },
     {
         "authors": [
+            "Infernal Studios"
+        ],
+        "name": "Questlog",
+        "url": "https://modrinth.com/mod/ufQYCY6N",
+        "version": "3.4.1"
+    },
+    {
+        "authors": [
             "Daedelus"
         ],
         "name": "RangedWeaponAPI",
         "url": "https://modrinth.com/mod/AqaIIO6D",
         "version": "2.3.4+1.20.1"
+    },
+    {
+        "authors": [
+            "Evan"
+        ],
+        "name": "Reliable Recipes",
+        "url": "https://modrinth.com/mod/Hl4ARA1z",
+        "version": "3.6.0+1.20.1"
     },
     {
         "authors": [
@@ -606,12 +695,28 @@
     },
     {
         "authors": [
+            "Fuzs"
+        ],
+        "name": "Respawning Animals",
+        "url": "https://modrinth.com/mod/WnwcSeWc",
+        "version": "8.2.1"
+    },
+    {
+        "authors": [
             "LatvianModder",
             "Mozilla"
         ],
         "name": "Rhino",
         "url": "https://modrinth.com/mod/sk9knFPE",
         "version": "2001.2.3-build.10"
+    },
+    {
+        "authors": [
+            "HalfOf2"
+        ],
+        "name": "Runtime Resource Pack",
+        "url": "https://modrinth.com/mod/USLVyT7V",
+        "version": "0.8.1"
     },
     {
         "authors": [
@@ -771,6 +876,14 @@
         "name": "Universal Ores",
         "url": "https://modrinth.com/mod/68kWHuUF",
         "version": "1.5.2"
+    },
+    {
+        "authors": [
+            "BananaPuppy"
+        ],
+        "name": "Variant Furnaces",
+        "url": "https://modrinth.com/mod/ac5I93w9",
+        "version": "1.3.1"
     },
     {
         "authors": [
