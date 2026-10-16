@@ -1,0 +1,9 @@
+{
+  "name": "Chipped",
+  "icon": {
+    "item": "chipped:mason_table"
+  },
+  "order": 7,
+  "default_chapter": false,
+  "hidden": false
+}

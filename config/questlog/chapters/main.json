@@ -1,0 +1,11 @@
+{
+  "title": "quest.owc.Introduction.title",
+  "description": "quest.owc.introduction.description",
+  "icon": {
+    "item": "minecraft:knowledge_book"
+  },
+  "order": 0,
+  "default_chapter": true,
+  "hidden": false,
+  "translatable": true
+}

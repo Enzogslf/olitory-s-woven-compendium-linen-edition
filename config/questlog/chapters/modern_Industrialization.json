@@ -1,0 +1,9 @@
+{
+  "name": "Modern Industrialization",
+  "icon": {
+    "item": "modern_industrialization:steam_quarry"
+  },
+  "order": 15,
+  "default_chapter": false,
+  "hidden": false
+}

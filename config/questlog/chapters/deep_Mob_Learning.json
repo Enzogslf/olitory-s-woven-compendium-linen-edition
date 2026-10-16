@@ -1,0 +1,9 @@
+{
+  "name": "Deep Mob Learning",
+  "icon": {
+    "item": "dml-refabricated:deep_learner"
+  },
+  "order": 10,
+  "default_chapter": false,
+  "hidden": false
+}

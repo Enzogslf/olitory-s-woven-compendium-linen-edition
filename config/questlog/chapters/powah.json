@@ -1,0 +1,9 @@
+{
+  "name": "Generators",
+  "icon": {
+    "item": "powah:solar_panel_starter"
+  },
+  "order": 17,
+  "default_chapter": false,
+  "hidden": false
+}

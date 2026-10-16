@@ -1,0 +1,9 @@
+{
+  "name": "Applied Energistics(AE2)",
+  "icon": {
+    "item": "ae2:controller"
+  },
+  "order": 4,
+  "default_chapter": false,
+  "hidden": false
+}

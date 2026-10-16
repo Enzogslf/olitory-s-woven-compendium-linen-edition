@@ -1,0 +1,19 @@
+{
+    "key.questlog.open": "Abre o menu de missoes",
+    "key.questlog.category": "Missoes",
+    "questlog.toast.quest_completed": "Missão concluida !",
+    "questlog.toast.quest_added": "Missão Adicionada",
+    "questlog.quest.completed": "Concluida",
+    "questlog.quest.uncollected": "Recompensas pendentes",
+    "questlog.objective.completed": "Objetivo concluido",
+    "questlog.objective.in_progress_singular": "Não completo",
+    "questlog.objective.in_progress": "%s/%s",
+    "questlog.reward.collect": "Coletar recompensas",
+    "questlog.reward.collected": "Coletado",
+    "questlog.reward.uncollected": "Recompensa pendente",
+    "questlog.gui.open": "Abrir menu de missoes",
+    "questlog.objective.default": "Objetivo",
+    "questlog.reward.default": "Recompensa",
+    "questlog.no_quests": "Sem missoes disponiveis",
+    "quest.owc.presentation.title": "teste"
+}

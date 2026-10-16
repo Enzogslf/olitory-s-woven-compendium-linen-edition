@@ -1,0 +1,9 @@
+{
+  "name": "Create",
+  "icon": {
+    "item": "create:water_wheel"
+  },
+  "order": 8,
+  "default_chapter": false,
+  "hidden": false
+}

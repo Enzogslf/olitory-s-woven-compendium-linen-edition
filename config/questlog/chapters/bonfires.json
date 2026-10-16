@@ -1,0 +1,9 @@
+{
+  "name": "Bonfires",
+  "icon": {
+    "item": "bonfires:homeward_bone"
+  },
+  "order": 6,
+  "default_chapter": false,
+  "hidden": false
+}

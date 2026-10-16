@@ -1,0 +1,9 @@
+{
+  "name": "Zenith(apotheosis)",
+  "icon": {
+    "item": "zenith:glowing_hellshelf"
+  },
+  "order": 20,
+  "default_chapter": false,
+  "hidden": false
+}

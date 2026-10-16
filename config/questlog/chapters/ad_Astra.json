@@ -1,0 +1,10 @@
+{
+  "name": "Ad Astra",
+  "icon": {
+    "item": "ad_astra:rocket_nose_cone"
+  },
+  "order": 2,
+  "default_chapter": false,
+  "hidden": false,
+  "translatable": true
+}

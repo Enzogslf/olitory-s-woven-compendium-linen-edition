@@ -1,0 +1,9 @@
+{
+  "name": "Archeology",
+  "icon": {
+    "item": "minecraft:brush"
+  },
+  "order": 12,
+  "default_chapter": false,
+  "hidden": false
+}

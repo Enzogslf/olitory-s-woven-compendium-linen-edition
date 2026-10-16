@@ -6,7 +6,7 @@ saves/
 
 XaeroWorldMap/
 
-XaeroWaypoints/
+XaeroWaypoints_*/
 
 .curseclient
 
@@ -14,7 +14,7 @@ ds_private_storage.json
 
 servers.dat
 
-xearo/
+xaero/
 
 shaderpacks/
 

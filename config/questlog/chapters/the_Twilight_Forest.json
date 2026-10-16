@@ -1,0 +1,9 @@
+{
+  "name": "Twilight Forest",
+  "icon": {
+    "item": "twilightforest:twilight_portal_miniature_structure"
+  },
+  "order": 19,
+  "default_chapter": false,
+  "hidden": false
+}

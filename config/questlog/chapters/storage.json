@@ -1,0 +1,9 @@
+{
+  "name": "Storage",
+  "icon": {
+    "item": "sophisticatedbackpacks:iron_backpack"
+  },
+  "order": 18,
+  "default_chapter": false,
+  "hidden": false
+}

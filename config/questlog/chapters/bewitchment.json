@@ -1,0 +1,9 @@
+{
+  "name": "Bewitchment",
+  "icon": {
+    "item": "bewitchment:athame"
+  },
+  "order": 5,
+  "default_chapter": false,
+  "hidden": false
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Vampirism",
+  "icon": {
+    "item": "modern_vampirism:vampirism_totem_whispers"
+  },
+  "order": 16,
+  "default_chapter": false,
+  "hidden": false
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Enchanted Witchcraft",
+  "icon": {
+    "item": "enchanted:candelabra"
+  },
+  "order": 11,
+  "default_chapter": false,
+  "hidden": false
+}
