@@ -1,0 +1,20 @@
+{
+  "title": "quest.owc.presentation.title",
+  "description": "Presentation testing",
+  "icon": {
+    "item": "minecraft:knowledge_book"
+  },
+  "chapter": "modern_Industrialization",
+  "sort_order": 0,
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "name": "wsaw",
+      "item": "minecraft:cobblestone",
+      "required_amount": 1
+    }
+  ],
+  "prerequisites": [],
+  "rewards": [],
+  "translatable": true
+}

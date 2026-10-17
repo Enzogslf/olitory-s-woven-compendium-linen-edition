@@ -1,16 +1,16 @@
 {
-  "title": "quest.owc.presentation.title",
+  "title": "quest.owc.forge_hammer.title",
   "description": "Presentation testing",
   "icon": {
-    "item": "minecraft:knowledge_book"
+    "item": "<item:modern_industrialization:forge_hammer>"
   },
-  "chapter": "main",
+  "chapter": "modern_Industrialization",
   "sort_order": 0,
   "objectives": [
     {
       "type": "questlog:item_obtain",
-      "name": "wsaw",
-      "item": "minecraft:cobblestone",
+      "name": "forge hammer",
+      "item": "<item:modern_industrialization:forge_hammer>",
       "required_amount": 1
     }
   ],
