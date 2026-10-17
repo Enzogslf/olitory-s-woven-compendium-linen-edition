@@ -1,0 +1,2 @@
+<recipetype:minecraft:smelting>.removeByName("create:smelting/silver_ingot_compat_modern_industrialization");
+<recipetype:minecraft:blasting>.removeByName("create:blasting/silver_ingot_compat_modern_industrialization");
